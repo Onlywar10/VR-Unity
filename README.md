@@ -15,10 +15,7 @@ Current features that I want to have
 - Dynamically allocated map
 - Towers to defend against enemies
 <br> </br>
-
-## Week 1: Getting Familiar with Unity
-Within week one I hope to get a first-person rig set up that could be piloted by a VR user. 
-
+## Week 0: A Fresh start in summer
 ##RESTARTING## 
 Now, I plan to use the Unreal engine for my platform, and I will be developing a Paper's Please type of game within the VR engine
 ###Current essential features###
