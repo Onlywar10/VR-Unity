@@ -19,3 +19,12 @@ Current features that I want to have
 ## Week 1: Getting Familiar with Unity
 Within week one I hope to get a first-person rig set up that could be piloted by a VR user. 
 
+##RESTARTING## 
+Now, I plan to use the Unreal engine for my platform, and I will be developing a Paper's Please type of game within the VR engine
+###Current essential features###
+-VR first-person perspective
+-NPC that comes into a room and provides the player with information
+-Buttons to Allow or Deny entry to the building 
+###Bonus Features###
+-Multiplayer mode, where the players on PC or mobile can try and deceive the VR player
+-Utilizing chatbots to make non-scripted responses to the player's actions.
